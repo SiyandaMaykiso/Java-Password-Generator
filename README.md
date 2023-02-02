@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Password-Generator
+=======
+# Java-Password-Generator
+>>>>>>> fe57a721a62c98a79b8eef8f02c0748fb67026ed
 This project is a Java Console Application to generate strong randomized passwords and performing a password strength check.
 
 I decided to create this project cyber security is becoming more and more important. 
